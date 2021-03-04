@@ -1,5 +1,3 @@
-# blog-tutorial
-
 ## Project setup
 ```
 npm install
